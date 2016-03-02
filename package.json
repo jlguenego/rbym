@@ -1,0 +1,19 @@
+{
+  "name": "rbym",
+  "version": "0.0.1",
+  "description": "Web site mockup for rebelyou!",
+  "main": "app/index.html",
+  "scripts": {
+	"start": "http-server -p 8000"
+  },
+  "repository": {},
+  "author": "Jean-Louis GUENEGO, only with its broken arms",
+  "license": "MIT",
+  "bugs": {},
+  "homepage": "",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "http-server": "^0.8.5"
+  }
+}
